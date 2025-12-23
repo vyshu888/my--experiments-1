@@ -24,4 +24,7 @@ class DefaultPrimitiveType {
     }
 }
 ```
+##output:
+output.png
+
 
