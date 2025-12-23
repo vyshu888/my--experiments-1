@@ -26,5 +26,7 @@ class DefaultPrimitiveType {
 ```
 ##output:
 output.png
+https://github.com/vyshu888/my--experiments-1/blob/main/Screenshot%202025-12-23%20213019.png
+
 
 
