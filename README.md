@@ -28,23 +28,18 @@ class DefaultPrimitiveType {
 https://github.com/vyshu888/my--experiments-1/blob/main/Screenshot%202025-12-23%20213019.png
 ### 1b.QUADRATIC EQUQTION SOLUTION:
 ### java code
+```java
 import java.util.Scanner;
-
 class QuadraticEquationSolution {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Enter a value of a:");
         double a = sc.nextDouble();
-
         System.out.println("Enter a value of b:");
         double b = sc.nextDouble();
-
         System.out.println("Enter a value of c:");
         double c = sc.nextDouble();
-
         double D = b * b - 4 * a * c;
-
         if (D > 0) {
             double x1 = (-b + Math.sqrt(D)) / (2 * a);
             double x2 = (-b - Math.sqrt(D)) / (2 * a);
@@ -64,7 +59,6 @@ class QuadraticEquationSolution {
             System.out.println("x1 = " + real + " + " + img + "i");
             System.out.println("x2 = " + real + " - " + img + "i");
         }
-
         sc.close();
     }
 }
