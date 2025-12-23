@@ -27,7 +27,7 @@ class DefaultPrimitiveType {
 ##output:
 https://github.com/vyshu888/my--experiments-1/blob/main/Screenshot%202025-12-23%20213019.png
 ## 1b:QUADRATIC EQUATION SOLUTION:
-### JAVA CODE:
+### JAVA CODE
 import java.util.Scanner;
  class QuadraticEquationSolution {
     public static void main(String args[]) {
@@ -58,6 +58,7 @@ import java.util.Scanner;
       sc.close();
     }
   }
+
 
 
 
