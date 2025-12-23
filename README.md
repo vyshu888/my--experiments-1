@@ -68,6 +68,8 @@ class QuadraticEquationSolution {
         sc.close();
     }
 }
+##output:
+
 
 
 
